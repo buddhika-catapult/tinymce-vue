@@ -4,7 +4,7 @@
   "description": "Official TinyMCE Vue Component",
   "private": false,
   "repository": {
-    "url": "https://github.com/tinymce/tinymce-vue"
+    "url": "https://github.com/buddhika-catapult/tinymce-vue"
   },
   "main": "lib/cjs/main/ts/index.js",
   "module": "lib/es2015/main/ts/index.js",
